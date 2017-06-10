@@ -23,7 +23,9 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 22,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -39,7 +41,8 @@
         {
           "_styles": {
             ".mbr-section-title": {
-              "color": "#e25041"
+              "color": "#e25041",
+              "font-size": "36px"
             },
             ".mbr-section-subtitle": {
               "color": "#fac51c"
@@ -184,9 +187,24 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#e25041",
+              "font-size": "36px"
+            },
+            ".mbr-section-text": {
+              "color": "#fac51c",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "21px"
+            },
+            ".btn": {
+              "font-size": "32px"
+            }
+          },
           "_anchor": "header2-7",
           "_params": {
-            "imageSize": "36",
+            "imageSize": "32",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/math-1500720-2000x1123.jpg",
@@ -229,21 +247,7 @@
           },
           "title": "HOW TO HACK ALGEBRA",
           "text": "An Engineer's E- Book Guide on How to Hack Algebra Using an Innovative Learning System Based on Contemporary Teaching Methods in STEM&nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"gum.co/hbsSz\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Pre- Order&nbsp;</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#e25041"
-            },
-            ".mbr-section-text": {
-              "color": "#fac51c",
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "font-size": "23px"
-            },
-            ".btn": {
-              "font-size": "32px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"gum.co/hbsSz\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">Pre- Order&nbsp;</a>"
         },
         {
           "_styles": {
@@ -284,7 +288,7 @@
             "showText": true,
             "showButton": false
           },
-          "title": "Learn How to Hack Algebra",
+          "title": "Learn How to Hack Alge\u001b\u001bbra",
           "text": "<h4>Based on Over 15 Years of Tutoring Experience</h4>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },
@@ -293,6 +297,12 @@
             "Theme"
           ],
           "_name": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#3d8eb9",
+              "font-size": "36px"
+            }
+          },
           "_anchor": "header2-l",
           "_params": {
             "imageSize": 50,
@@ -336,20 +346,20 @@
               "size": 250
             }
           },
-          "title": "TEMILOLUWA AKA YOUR ENGINEER TUTOR",
+          "title": "About&nbsp;<br>Your Engineer Tutor",
           "text": "Temiloluwa Adeniyi, also known as \"your engineer tutor\" is a fomerly trained engineer, who is &nbsp;passionate about &nbsp;increasing diversity in STEM, as &nbsp;well as improving the educational experiences of all students in STEM. She is the daughter of an educator and &nbsp;has over 15 years of tutoring experiences. She begain her experience with tutoring , as a child, when &nbsp;she asisted her &nbsp;mom with younger students in various, after- school &nbsp;enrichment programs. Her passion for education that &nbsp;was fostered, as a child, lead to further teaching opportunities in college ,while studying Biomedical Enginering, such as the Choose Ohio Teaching Fellowship. The fellowship was funded by the &nbsp;National Science Foudnation and the Ohio Board of Regents. It provided &nbsp;the opportunity to learn &nbsp;and apply contemporary ideas in STEM education, around challenge based learning, &nbsp;through a year long teachign experience at a local school. &nbsp;She is just in the beginning stages of championing change in STEM and hopes &nbsp;How to Hack Algebra is part of an life long effort to transform educational STEM experiences &nbsp;for children. &nbsp;",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#3d8eb9"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#b8312f"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“I just didn't get Algebra before. My teacher would say stuff in class and it just didn't make sense. When I started using the How to Hack Algebra, all the Algebra gobodeey gook started to make sense. ”</p>",
@@ -374,6 +384,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "1",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
@@ -383,19 +397,10 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": "1",
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "WHAT STUDENTS ARE SAYING",
-          "subtitle": "",
-          "_styles": {
-            ".card-footer > small": {
-              "color": "#b8312f"
-            }
-          }
+          "subtitle": ""
         },
         {
           "_inherit": "testimonials1",
@@ -431,6 +436,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "1",
+            "showImages": false,
+            "showName": true,
+            "showBio": false,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/boy-1126140-2000x1333.jpg",
@@ -440,11 +449,7 @@
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
             "showTitle": true,
-            "showSubtitle": false,
-            "count": "1",
-            "showImages": false,
-            "showName": true,
-            "showBio": false
+            "showSubtitle": false
           },
           "title": "WHAT PARENTS ARE SAYING",
           "subtitle": "Shape your future web project with sharp design and refine coded functions."
@@ -483,6 +488,15 @@
             "Theme"
           ],
           "_name": "form1",
+          "_styles": {
+            ".form-control-label": {
+              "color": "#232323"
+            },
+            ".mbr-section-title": {
+              "color": "#3d8eb9",
+              "font-size": "36px"
+            }
+          },
           "_anchor": "form1-g",
           "_params": {
             "labelsColor": "#232323",
@@ -528,21 +542,23 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">COME HACK WITH US!&nbsp;</a>",
-          "_styles": {
-            ".form-control-label": {
-              "color": "#232323"
-            },
-            ".mbr-section-title": {
-              "color": "#3d8eb9"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">COME HACK WITH US!&nbsp;</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "footer1",
+          "_styles": {
+            "P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#000000"
+            },
+            "B": {
+              "color": "#2969b0"
+            }
+          },
           "_anchor": "footer1-5",
           "_params": {
             "paddingTop": 2,
@@ -556,17 +572,7 @@
             "overlayOpacity": 0.8,
             "overlayColor": "#444444"
           },
-          "text": "<b>Copyright (c) 2017 Your Engineer Tutor. Built by Sling</b>",
-          "_styles": {
-            "P": {
-              "font-family": "'Oswald', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
-              "color": "#000000"
-            },
-            "B": {
-              "color": "#2969b0"
-            }
-          }
+          "text": "<b>Copyright (c) 2017 Your Engineer Tutor. Built by Sling</b>"
         }
       ]
     }
