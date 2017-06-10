@@ -413,14 +413,14 @@ h6,
 .mbr-gallery-filter li:hover {
   color: #c0a375;
 }
-.scrollToTop_wraper {
-  opacity: 0 !important;
-}
 #form2-3 .mbr-section-title {
   color: #e25041;
 }
 #form2-3 .mbr-section-subtitle {
   color: #fac51c;
+}
+#form2-3 .btn {
+  font-size: 14px;
 }
 #ext_menu-0 .hide-buttons .nav-btn {
   display: none !important;
@@ -490,7 +490,7 @@ h6,
 #header2-7 .mbr-section-text {
   color: #fac51c;
   font-family: 'Oswald', sans-serif;
-  font-size: 21px;
+  font-size: 23px;
 }
 #header2-7 .btn {
   font-size: 32px;
@@ -507,6 +507,9 @@ h6,
 }
 #msg-box8-f .lead H4 {
   color: #e25041;
+}
+#header2-l .mbr-section-title {
+  color: #3d8eb9;
 }
 #testimonials1-c .card-footer > small {
   color: #b8312f;
