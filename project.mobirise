@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 22,
+    "uniqCompNum": 23,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -251,46 +251,32 @@
         },
         {
           "_styles": {
-            ".mbr-section-title, p": {
-              "color": "#fff"
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             },
-            ".mbr-section-title": {
+            "SMALL": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-size": "24px",
+              "color": "#d14841"
+            },
+            "H3": {
               "color": "#fac51c"
-            },
-            ".lead P": {
-              "color": "#b8312f"
-            },
-            ".lead H4": {
-              "color": "#e25041"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-f",
+          "_name": "header3",
+          "_anchor": "header3-m",
           "_params": {
-            "paddingTop": "0",
-            "paddingBottom": "0",
-            "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "paddingTop": 1,
+            "paddingBottom": 1,
             "bgColor": "#3d8eb9",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#3d8eb9",
-            "showTitle": true,
-            "showText": true,
-            "showButton": false
+            "showMeta": true
           },
-          "title": "Learn How to Hack Alge\u001b\u001bbra",
-          "text": "<h4>Based on Over 15 Years of Tutoring Experience</h4>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
+          "title": "Learn How to Hack Algebra",
+          "meta": "<b>Based on Over 15 Years of Tutoring Experience</b>"
         },
         {
           "_tags": [

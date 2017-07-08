@@ -9,6 +9,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -497,18 +498,17 @@ h6,
 #header2-7 .btn {
   font-size: 32px;
 }
-#msg-box8-f .mbr-section-title,
-#msg-box8-f p {
-  color: #fff;
+#header3-m .mbr-section-title,
+#header3-m .mbr-section-subtitle {
+  text-align: center;
 }
-#msg-box8-f .mbr-section-title {
+#header3-m SMALL {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 24px;
+  color: #d14841;
+}
+#header3-m H3 {
   color: #fac51c;
-}
-#msg-box8-f .lead P {
-  color: #b8312f;
-}
-#msg-box8-f .lead H4 {
-  color: #e25041;
 }
 #header2-l .mbr-section-title {
   color: #3d8eb9;
