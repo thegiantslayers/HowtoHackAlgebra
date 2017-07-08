@@ -10,6 +10,7 @@
 
 
 
+
 body,
 input,
 textarea,
@@ -509,6 +510,9 @@ h6,
 }
 #header3-m H3 {
   color: #fac51c;
+}
+#header3-m B {
+  font-family: 'Montserrat', sans-serif;
 }
 #header2-l .mbr-section-title {
   color: #3d8eb9;

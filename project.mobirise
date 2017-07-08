@@ -262,6 +262,10 @@
             },
             "H3": {
               "color": "#fac51c"
+            },
+            "B": {
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_tags": [
@@ -276,7 +280,7 @@
             "showMeta": true
           },
           "title": "Learn How to Hack Algebra",
-          "meta": "<b>Based on Over 15 Years of Tutoring Experience</b>"
+          "meta": "<span style=\"font-style: normal;\"><b>Based on Over 15 Years of Tutoring Experience</b></span>"
         },
         {
           "_tags": [
@@ -333,7 +337,7 @@
             }
           },
           "title": "About&nbsp;<br>Your Engineer Tutor",
-          "text": "Temiloluwa Adeniyi, also known as \"your engineer tutor\" is a fomerly trained engineer, who is &nbsp;passionate about &nbsp;increasing diversity in STEM, as &nbsp;well as improving the educational experiences of all students in STEM. She is the daughter of an educator and &nbsp;has over 15 years of tutoring experiences. She begain her experience with tutoring , as a child, when &nbsp;she asisted her &nbsp;mom with younger students in various, after- school &nbsp;enrichment programs. Her passion for education that &nbsp;was fostered, as a child, lead to further teaching opportunities in college ,while studying Biomedical Enginering, such as the Choose Ohio Teaching Fellowship. The fellowship was funded by the &nbsp;National Science Foudnation and the Ohio Board of Regents. It provided &nbsp;the opportunity to learn &nbsp;and apply contemporary ideas in STEM education, around challenge based learning, &nbsp;through a year long teachign experience at a local school. &nbsp;She is just in the beginning stages of championing change in STEM and hopes &nbsp;How to Hack Algebra is part of an life long effort to transform educational STEM experiences &nbsp;for children. &nbsp;",
+          "text": "Temiloluwa Adeniyi, also known as \"Your Engineer Tutor\" is a fomerly trained engineer, who is &nbsp;passionate about &nbsp;increasing diversity in STEM, as &nbsp;well as improving the educational experiences of all students in STEM. She is the daughter of an educator and &nbsp;has over 15 years of tutoring experiences. She begain her experience with tutoring , as a child, when &nbsp;she asisted her &nbsp;mom with younger students in various, after- school &nbsp;enrichment programs. Her passion for education that &nbsp;was fostered, as a child, lead to further teaching opportunities in college ,while studying Biomedical Enginering, such as the Choose Ohio Teaching Fellowship. The fellowship was funded by the &nbsp;National Science Foudnation and the Ohio Board of Regents. It provided &nbsp;the opportunity to learn &nbsp;and apply contemporary ideas in STEM education, around challenge based learning, &nbsp;through a year long teachign experience at a local school. &nbsp;She is just in the beginning stages of championing change in STEM and hopes &nbsp;How to Hack Algebra is part of an life long effort to transform educational STEM experiences &nbsp;for children. &nbsp;",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
